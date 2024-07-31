@@ -2,7 +2,7 @@
 
 /**
  * is_printable - Evaluates if a char is printable
- * by chidinma and halidu
+ * by chidinma and Ibrahim halidu
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
